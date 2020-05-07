@@ -688,6 +688,8 @@ function runGame() {
             }
         }
 
+        document.getElementById('game').style.transform = "rotate(0deg)";
+
         player = 'white'
         select = {
             canMove: false,
