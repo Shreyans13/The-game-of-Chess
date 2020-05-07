@@ -688,7 +688,7 @@ function runGame() {
             }
         }
 
-        player = 'black'
+        player = 'white'
         select = {
             canMove: false,
             piece: '',
